@@ -33,6 +33,3 @@ contract Messenger {
     }
 }
 
-
-//0x9c9f3052Fcdde50d6E1f9241d6b3b35044FACec0
-//0xd6b8f5Ddf0dA19C4bEF691A93666605A451A39Cc
